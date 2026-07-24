@@ -1,0 +1,27 @@
+# Suggested repository metadata.
+# Copy these values into GitHub repository settings.
+
+name: leaddesk-mini
+description: "Premium lead management CRM built with React, FastAPI, MongoDB Atlas, JWT auth, and production-ready deployment."
+homepage: "https://leaddesk-mini.vercel.app"
+topics:
+  - react
+  - vite
+  - typescript
+  - tailwindcss
+  - fastapi
+  - mongodb
+  - motor
+  - jwt-auth
+  - crm
+  - dashboard
+  - saas
+  - vercel
+  - render
+  - pytest
+  - vitest
+features:
+  issues: true
+  projects: true
+  wiki: false
+  discussions: false

@@ -1,0 +1,17 @@
+{
+  "name": "LeadDesk Mini",
+  "short_name": "LeadDesk",
+  "description": "Modern Lead Management CRM for premium admin workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
