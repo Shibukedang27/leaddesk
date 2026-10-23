@@ -1,4 +1,4 @@
-fastapi==0.118.3
+fastapi==0.150.0
 uvicorn[standard]==0.54.0
 motor==3.7.1
 pydantic==2.13.4
